@@ -1,8 +1,8 @@
-export default function() {
+export default function () {
     return [
-        {title: 'Javascript: the good parts'},
-        {title: 'Harry potter'},
-        {title: 'Rue des Macchabées'},
-        {title: 'SFML Game Developement'}
+        { title: 'Javascript: the good parts', pages: 101 },
+        { title: 'Harry potter', pages: 320 },
+        { title: 'Rue des Macchabées', pages: 80 },
+        { title: 'SFML Game Developement', pages: 1 }
     ]
 }
